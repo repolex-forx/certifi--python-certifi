@@ -4,30 +4,30 @@
   "repo": "python-certifi",
   "versions": [
     {
-      "commit": "04f5882b59f1dc80b8019f6be767c95751502cd0",
-      "parsed_at": "2026-03-18T11:10:15.094130+00:00",
-      "filetree": "filetree/04f5882b59f1dc80b8019f6be767c95751502cd0.nq.gz",
+      "commit": "e62c737f2e89f04e49ab21f551c1725dd6b75e31",
+      "parsed_at": "2026-03-18T11:17:37.105533+00:00",
+      "filetree": "filetree/e62c737f2e89f04e49ab21f551c1725dd6b75e31.nq.gz",
       "blobs": [
         "blob/a6a027f7e0d3735e1b5ed37ac87190e53f597f5f.nq.gz",
-        "blob/062a2e17b7959d64977a8be136992aad603263ab.nq.gz",
-        "blob/06d6150be3050066330ac9d5276cb53a8cb10989.nq.gz",
-        "blob/632115883cd20c931a1345c3a9457b90d8ac564a.nq.gz",
+        "blob/9bf9b0e69ac010437062a4d6388804a7360eac77.nq.gz",
+        "blob/2245a4d3939619042279447c42f8bd9f7410c78a.nq.gz",
         "blob/802b53ff11e347c9bd2cabebeff5c51f716f1db9.nq.gz",
         "blob/31ecdfb0b4b73faf5a47ab10c8debd1c51b503c7.nq.gz",
         "blob/5f1da0dd0c201e8aedc1552ef82a1780eb37276d.nq.gz",
+        "blob/f8a9fe3106a1ac99e8799cf5d19509c4cf48deb6.nq.gz",
+        "blob/551eb9776721762bccab0f040ebe9daaaca47984.nq.gz",
         "blob/5e4090017a9bec5de60a745d17007a9e95f31a43.nq.gz",
         "blob/98018904db4563e77c5e8a8063d9050d0bacd7d1.nq.gz",
-        "blob/853c08c29a1b23c67c2df03c7236f1816914095a.nq.gz",
         "blob/c6de76ca551261ee39c16618767731d13c9d468b.nq.gz",
-        "blob/28c414bdc0480128a666dba4ff0df88bec5201ef.nq.gz",
         "blob/5de8fc8ba45321a54ff116a2e98d9b01c2fc705f.nq.gz",
-        "blob/33eb736c3a393919224df66e26f44febdc14fa62.nq.gz"
+        "blob/33eb736c3a393919224df66e26f44febdc14fa62.nq.gz",
+        "blob/dfa23ce2799730774589fff52e3ca80b1df993bc.nq.gz"
       ],
       "ast": [
-        "aggregate/ast/04f5882b59f1dc80b8019f6be767c95751502cd0.nq.gz"
+        "aggregate/ast/e62c737f2e89f04e49ab21f551c1725dd6b75e31.nq.gz"
       ],
-      "lsp": "aggregate/lsp/04f5882b59f1dc80b8019f6be767c95751502cd0.nq.gz",
-      "repolex": "aggregate/repolex/04f5882b59f1dc80b8019f6be767c95751502cd0.nq.gz"
+      "lsp": "aggregate/lsp/e62c737f2e89f04e49ab21f551c1725dd6b75e31.nq.gz",
+      "repolex": "aggregate/repolex/e62c737f2e89f04e49ab21f551c1725dd6b75e31.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
