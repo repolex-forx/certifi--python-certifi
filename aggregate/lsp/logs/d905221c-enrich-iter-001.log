@@ -1,0 +1,12 @@
+[2026-09-19T06:06:03Z] === ENRICH ITERATION 1 START | repo=certifi/python-certifi sha=d905221c ===
+[2026-09-19T06:06:03Z] [iter=1] PHASE START: enrich repo=certifi/python-certifi sha=d905221c runlog=/home/runner/work/forx/forx/storage/aggregate/lsp/logs/d905221c-enrich-iter-001.log output=/home/runner/work/forx/forx/storage/aggregate/lsp/d905221c916d51077f5c8071a0f7aa2df2a37c52.nq.gz
+[2026-09-19T06:06:03Z] [iter=1] Step 1: Loading AST into disk-backed store mem_mb=78 MB
+[2026-09-19T06:06:03Z] [iter=1] AST store loaded triples=4098 load_secs=0 mem_mb=91 MB
+[2026-09-19T06:06:03Z] [iter=1] Step 2: Finding LSP targets mem_mb=91 MB
+[2026-09-19T06:06:03Z] [iter=1] LSP targets found call_sites=0 imports=0 extends=0 implements=0 secs=0
+[2026-09-19T06:06:03Z] [iter=1] Step 2.7: Building position index (one-shot, shared across resolvers) mem_mb=91 MB
+[2026-09-19T06:06:03Z] [iter=1] Position index built positions=318 nodes_with_types=395 secs=0 mem_mb=91 MB
+[2026-09-19T06:06:03Z] [iter=1] Step 3: Starting LSP resolution mem_mb=91 MB already_completed_types=[] already_completed_files=0
+[2026-09-19T06:06:06Z] [iter=1] Step 5: Writing final enrichment file triples=181
+[2026-09-19T06:06:06Z] [iter=1] Enrichment file written path=/home/runner/work/forx/forx/storage/aggregate/lsp/d905221c916d51077f5c8071a0f7aa2df2a37c52.nq.gz size_kb=2
+[2026-09-19T06:06:06Z] [iter=1] PHASE END: enrich elapsed_s=3 elapsed_min=0.0 total_triples=181
